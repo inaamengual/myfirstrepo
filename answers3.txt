@@ -1,0 +1,2 @@
+echo prints an argument “hello_world.txt”
+cat lets you view the content of a file.
